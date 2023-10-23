@@ -1,8 +1,11 @@
 # PRIMERA CABERCERA
 ## SEGUNDA CABECERA
+
 #### Añadimos una imagen
 ![Image of Yaktocat](https://fptxurdinaga.eus/wp-content/uploads/2023/06/Logo_Home3.png)
+
 #### Añadimos código
+
 ```javascript
 function cambiaBordeDiv3(div3){
                 //no muestra nada porque el estilo se aplica desde etiqueta style o fichero externo
@@ -16,6 +19,7 @@ function cambiaBordeDiv3(div3){
                 div3.style.border="green 3px solid";
             }
 ```
+
 #### Añadimos una lista
 - [X] Elemento 1
 - [ ] Elemento 2
