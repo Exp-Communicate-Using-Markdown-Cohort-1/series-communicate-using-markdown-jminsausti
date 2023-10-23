@@ -16,3 +16,8 @@ function cambiaBordeDiv3(div3){
                 div3.style.border="green 3px solid";
             }
 ```
+#### Añadimos una lista
+- [X] Elemento 1
+- [ ] Elemento 2
+- [ ] Elemento 3
+
